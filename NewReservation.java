@@ -4,8 +4,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 public class NewReservation 
 {
-    int id = 1;
-    int password = 2;
+    int id = 1234;
+    int password = 7890;
    // int pass = Integer.parseInt(password);
     JFrame f1,f2,f3,f4,f5,f6,f7,f8;
     JButton login;
